@@ -1,15 +1,14 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=HELLO,+I'M+JEETU;BUILDING+FROM+ZERO+TO+ONE;FULL-STACK+DEVELOPER;SOLANA+&+WEB3+EXPLORER;JAPANESE+LEARNER+(N5)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=HELLO,+I'M+JEETU+PUROHIT;BUILDING+FROM+ZERO+TO+ONE;FULL-STACK+DEVELOPER;SOLANA+&+WEB3+EXPLORER;JAPANESE+LEARNER+(N5)" alt="Typing SVG" />
 </div>
 
 ---
 
-### 🛠️ The Philosophy: "No Black Boxes"
-I don't just use frameworks; I dismantle them. My goal is to understand the **internals** of how systems work—from the TCP/IP handshake to the way a container talks to the Linux kernel. 
+### 🛠️ The Philosophy : Nothing
+Just a student exploring technologies and finding his interest
 
 - 🦀 **Currently:** Deep-diving into Solana & Rust.
 - 🏗️ **Building:** End-to-end systems with high-level DX and low-level stability.
-- 🇯🇵 **Learning:** Preparing for JLPT N5. 日本語を勉強しています！
 
 ---
 
